@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Parssa
 
-<!--
-**parsa-mootab/parsa-mootab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on Python and applied Machine Learning.
 
-Here are some ideas to get you started:
+I'm developing my programming skills through hands-on projects in Python, automation, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Python and problem-solving
+- Machine Learning fundamentals
+- Workflow automation with n8n
+
+### Current Goal
+Building practical projects and gaining experience in software development and applied ML.
